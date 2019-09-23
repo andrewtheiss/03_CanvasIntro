@@ -16,7 +16,11 @@ var SPACE_SHIP = {
   }
 };
 
+<<<<<<< HEAD
 var SQUARE_COORDINATES = {
+=======
+var NEW_OBJECT = {
+>>>>>>> 23b1fcd045ff47f3065013e41877ae3f931a3729
   x : 0,
   y : 0
 };

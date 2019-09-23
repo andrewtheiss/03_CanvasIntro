@@ -38,12 +38,19 @@ function handleShipAnimation() {
 }
 
 function RenderNewObject(context) {
+<<<<<<< HEAD
   context.fillRect(SQUARE_COORDINATES.x, SQUARE_COORDINATES.y, 10, 10);
+=======
+>>>>>>> 23b1fcd045ff47f3065013e41877ae3f931a3729
   // Draw a new item here using the canvas 'context' variable
 }
 
 function HandleNewObjectMovement() {
+<<<<<<< HEAD
 //SQUARE_COORDINATES.x += 1;
+=======
+  //NEW_OBJECT.x += 1;
+>>>>>>> 23b1fcd045ff47f3065013e41877ae3f931a3729
   //NEW_OBJECT.y += 1;
 }
 

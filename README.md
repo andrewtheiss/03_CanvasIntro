@@ -1,1 +1,5 @@
 # 03_CanvasIntro
+<<<<<<< HEAD
+=======
+GO HOME CLASS IS OVER JKJKJK
+>>>>>>> 23b1fcd045ff47f3065013e41877ae3f931a3729

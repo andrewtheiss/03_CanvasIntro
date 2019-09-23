@@ -43,7 +43,7 @@ function RenderNewObject(context) {
 }
 
 function HandleNewObjectMovement() {
-  SQUARE_COORDINATES.x += 1;
+//SQUARE_COORDINATES.x += 1;
   //NEW_OBJECT.y += 1;
 }
 

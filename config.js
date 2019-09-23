@@ -16,7 +16,7 @@ var SPACE_SHIP = {
   }
 };
 
-var NEW_OBJECT = {
+var SQUARE_COORDINATES = {
   x : 0,
   y : 0
 };
